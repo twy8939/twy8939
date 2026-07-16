@@ -2,12 +2,7 @@
   <img src="./assets/header.png" alt="Hi, I'm Yongmin Kim - Frontend Developer" width="100%" />
 </p>
 
-# 김용민 | Frontend Developer
-
-Building web and mobile apps with React and TypeScript.
-
-운영형 웹 서비스, 데이터가 많은 화면, React Native/Expo 기반 모바일 앱을 개발합니다.  
-최근에는 App Store에 출시되는 사이드 프로젝트를 만들며 기획부터 개발, 배포까지 직접 다루고 있습니다.
+운영형 웹 서비스와 React Native/Expo 기반 모바일 앱을 개발합니다.
 
 ## Stack
 
