@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.png" alt="Hi, I'm Yongmin Kim - Frontend Developer" width="100%" />
+</p>
+
 # 김용민 | Frontend Developer
 
 Building web and mobile apps with React and TypeScript.
